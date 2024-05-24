@@ -1,12 +1,12 @@
 # T3-Queues_Stacks
 Ayudantia sobre Pilas y colas para taller 3
 
-# Compila con Make
+## Compila con Make
 
 ```bash
 Make
 ```
-# Ejecuta el programa
+## Ejecuta el programa
 
 ```bash
 ./<filename> <args>
@@ -15,12 +15,12 @@ Make
 ### Ejercicio 1 stlstackqueue.cpp
 
 ```bash
-./stlstackqueue 
+./stlstackqueue <n> <m> <seed>
 ```
 
 ### Ejercicio 2 stlstackqueue2.cpp
 ```bash
-./stlstackqueue2 
+./stlstackqueue2 <n> <k> <seed>
 ```
 ### Ejercicio 3 queuef.cpp
 ```bash
