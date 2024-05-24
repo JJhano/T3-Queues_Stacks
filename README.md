@@ -14,4 +14,6 @@ Make
 
 ### Ejercicio 1 stlstackqueue.cpp
 
-### Ejercicio 2 
+### Ejercicio 2 stlstackqueue2.cpp
+
+### Ejercicio 3 stlstackqueue3.cpp
