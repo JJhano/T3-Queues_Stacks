@@ -14,6 +14,15 @@ Make
 
 ### Ejercicio 1 stlstackqueue.cpp
 
-### Ejercicio 2 stlstackqueue2.cpp
+```bash
+./stlstackqueue 
+```
 
-### Ejercicio 3 stlstackqueue3.cpp
+### Ejercicio 2 stlstackqueue2.cpp
+```bash
+./stlstackqueue2 
+```
+### Ejercicio 3 queuef.cpp
+```bash
+./queuef <n> <seed> 
+```
